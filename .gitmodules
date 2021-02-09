@@ -1,3 +1,15 @@
 [submodule "async-power-dialer"]
 	path = async-power-dialer
 	url = https://github.com/twilio-infra-as-code/async-power-dialer.git
+[submodule "flex-dialpad-addon-plugin"]
+	path = flex-dialpad-addon-plugin
+	url = https://github.com/twilio-infra-as-code/flex-dialpad-addon-plugin.git
+[submodule "outbound-messaging"]
+	path = outbound-messaging
+	url = https://github.com/twilio-infra-as-code/outbound-messaging.git
+[submodule "messaging-media-flex-chat"]
+	path = messaging-media-flex-chat
+	url = https://github.com/twilio-infra-as-code/messaging-media-flex-chat.git
+[submodule "preview-dialer"]
+	path = preview-dialer
+	url = https://github.com/twilio-infra-as-code/preview-dialer.git
