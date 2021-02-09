@@ -1,0 +1,3 @@
+[submodule "async-power-dialer"]
+	path = async-power-dialer
+	url = https://github.com/twilio-infra-as-code/async-power-dialer.git
