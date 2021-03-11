@@ -8,8 +8,6 @@ This repository contains examples on how to deploy and manage Twilio Projects us
 
 ## Checking Out a Single Example
 
-You can check out only the examples you want by clicking on the subfolder for the Flex plugin [repository template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) that you want, or clicking on the template names on the following table:
-
 This project is organized as a collection of links to other repos that contain examples of how to use Pulumi to deploy Twilio projects. The best way to use this repo is to open a template link from the following table, and click on "Use this template":
 
 Template  | Description |
