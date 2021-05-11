@@ -15,4 +15,4 @@
 	url = https://github.com/twilio-infra-as-code/preview-dialer.git
 [submodule "taskrouter-contact-center"]
 	path = taskrouter-contact-center
-	url = https://github.com/twilio-infra-as-code/taskrouter-contact-center
+	url = https://github.com/twilio-infra-as-code/taskrouter-contact-center.git
